@@ -1,0 +1,11 @@
+C:\Project1\Excercise1.1\Excercise1.1\obj\Debug\netcoreapp3.0\Excercise1.1.csprojAssemblyReference.cache
+C:\Project1\Excercise1.1\Excercise1.1\obj\Debug\netcoreapp3.0\Excercise1.1.AssemblyInfoInputs.cache
+C:\Project1\Excercise1.1\Excercise1.1\obj\Debug\netcoreapp3.0\Excercise1.1.AssemblyInfo.cs
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.exe
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.deps.json
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.runtimeconfig.json
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.runtimeconfig.dev.json
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.dll
+C:\Project1\Excercise1.1\Excercise1.1\bin\Debug\netcoreapp3.0\Excercise1.1.pdb
+C:\Project1\Excercise1.1\Excercise1.1\obj\Debug\netcoreapp3.0\Excercise1.1.dll
+C:\Project1\Excercise1.1\Excercise1.1\obj\Debug\netcoreapp3.0\Excercise1.1.pdb
