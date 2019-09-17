@@ -1,0 +1,10 @@
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.exe
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.deps.json
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.runtimeconfig.json
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.runtimeconfig.dev.json
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.dll
+C:\Project1\Excercise28\Excercise28\bin\Debug\netcoreapp3.0\Excercise28.pdb
+C:\Project1\Excercise28\Excercise28\obj\Debug\netcoreapp3.0\Excercise28.AssemblyInfoInputs.cache
+C:\Project1\Excercise28\Excercise28\obj\Debug\netcoreapp3.0\Excercise28.AssemblyInfo.cs
+C:\Project1\Excercise28\Excercise28\obj\Debug\netcoreapp3.0\Excercise28.dll
+C:\Project1\Excercise28\Excercise28\obj\Debug\netcoreapp3.0\Excercise28.pdb
