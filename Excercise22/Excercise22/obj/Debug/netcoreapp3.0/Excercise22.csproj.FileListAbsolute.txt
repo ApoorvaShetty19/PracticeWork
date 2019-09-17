@@ -1,0 +1,11 @@
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.exe
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.deps.json
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.runtimeconfig.json
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.runtimeconfig.dev.json
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.dll
+C:\Project1\Excercise22\Excercise22\bin\Debug\netcoreapp3.0\Excercise22.pdb
+C:\Project1\Excercise22\Excercise22\obj\Debug\netcoreapp3.0\Excercise22.csprojAssemblyReference.cache
+C:\Project1\Excercise22\Excercise22\obj\Debug\netcoreapp3.0\Excercise22.AssemblyInfoInputs.cache
+C:\Project1\Excercise22\Excercise22\obj\Debug\netcoreapp3.0\Excercise22.AssemblyInfo.cs
+C:\Project1\Excercise22\Excercise22\obj\Debug\netcoreapp3.0\Excercise22.dll
+C:\Project1\Excercise22\Excercise22\obj\Debug\netcoreapp3.0\Excercise22.pdb

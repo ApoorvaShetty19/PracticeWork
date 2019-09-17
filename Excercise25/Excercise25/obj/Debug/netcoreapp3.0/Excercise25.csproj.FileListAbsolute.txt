@@ -1,0 +1,10 @@
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.exe
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.deps.json
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.runtimeconfig.json
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.runtimeconfig.dev.json
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.dll
+C:\Project1\Excercise25\Excercise25\bin\Debug\netcoreapp3.0\Excercise25.pdb
+C:\Project1\Excercise25\Excercise25\obj\Debug\netcoreapp3.0\Excercise25.AssemblyInfoInputs.cache
+C:\Project1\Excercise25\Excercise25\obj\Debug\netcoreapp3.0\Excercise25.AssemblyInfo.cs
+C:\Project1\Excercise25\Excercise25\obj\Debug\netcoreapp3.0\Excercise25.dll
+C:\Project1\Excercise25\Excercise25\obj\Debug\netcoreapp3.0\Excercise25.pdb

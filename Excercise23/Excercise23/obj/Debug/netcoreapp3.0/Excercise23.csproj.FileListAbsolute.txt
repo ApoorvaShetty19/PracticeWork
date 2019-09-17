@@ -1,0 +1,10 @@
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.exe
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.deps.json
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.runtimeconfig.json
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.runtimeconfig.dev.json
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.dll
+C:\Project1\Excercise23\Excercise23\bin\Debug\netcoreapp3.0\Excercise23.pdb
+C:\Project1\Excercise23\Excercise23\obj\Debug\netcoreapp3.0\Excercise23.AssemblyInfoInputs.cache
+C:\Project1\Excercise23\Excercise23\obj\Debug\netcoreapp3.0\Excercise23.AssemblyInfo.cs
+C:\Project1\Excercise23\Excercise23\obj\Debug\netcoreapp3.0\Excercise23.dll
+C:\Project1\Excercise23\Excercise23\obj\Debug\netcoreapp3.0\Excercise23.pdb
