@@ -1,0 +1,10 @@
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.exe
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.deps.json
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.runtimeconfig.json
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.runtimeconfig.dev.json
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.dll
+C:\Project1\Exercise17\Exercise17\bin\Debug\netcoreapp3.0\Exercise17.pdb
+C:\Project1\Exercise17\Exercise17\obj\Debug\netcoreapp3.0\Exercise17.AssemblyInfoInputs.cache
+C:\Project1\Exercise17\Exercise17\obj\Debug\netcoreapp3.0\Exercise17.AssemblyInfo.cs
+C:\Project1\Exercise17\Exercise17\obj\Debug\netcoreapp3.0\Exercise17.dll
+C:\Project1\Exercise17\Exercise17\obj\Debug\netcoreapp3.0\Exercise17.pdb
