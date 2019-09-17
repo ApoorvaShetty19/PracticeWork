@@ -1,0 +1,10 @@
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.exe
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.deps.json
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.runtimeconfig.json
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.runtimeconfig.dev.json
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.dll
+C:\Project1\Exercise10\Exercise10\bin\Debug\netcoreapp3.0\Exercise10.pdb
+C:\Project1\Exercise10\Exercise10\obj\Debug\netcoreapp3.0\Exercise10.AssemblyInfoInputs.cache
+C:\Project1\Exercise10\Exercise10\obj\Debug\netcoreapp3.0\Exercise10.AssemblyInfo.cs
+C:\Project1\Exercise10\Exercise10\obj\Debug\netcoreapp3.0\Exercise10.dll
+C:\Project1\Exercise10\Exercise10\obj\Debug\netcoreapp3.0\Exercise10.pdb
