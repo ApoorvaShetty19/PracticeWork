@@ -1,0 +1,10 @@
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.exe
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.deps.json
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.runtimeconfig.json
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.runtimeconfig.dev.json
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.dll
+C:\Project1\Exercise16\Exercise16\bin\Debug\netcoreapp3.0\Exercise16.pdb
+C:\Project1\Exercise16\Exercise16\obj\Debug\netcoreapp3.0\Exercise16.AssemblyInfoInputs.cache
+C:\Project1\Exercise16\Exercise16\obj\Debug\netcoreapp3.0\Exercise16.AssemblyInfo.cs
+C:\Project1\Exercise16\Exercise16\obj\Debug\netcoreapp3.0\Exercise16.dll
+C:\Project1\Exercise16\Exercise16\obj\Debug\netcoreapp3.0\Exercise16.pdb

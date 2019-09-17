@@ -1,0 +1,10 @@
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.exe
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.deps.json
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.runtimeconfig.json
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.runtimeconfig.dev.json
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.dll
+C:\Project1\Exercise14\Exercise14\bin\Debug\netcoreapp3.0\Exercise14.pdb
+C:\Project1\Exercise14\Exercise14\obj\Debug\netcoreapp3.0\Exercise14.AssemblyInfoInputs.cache
+C:\Project1\Exercise14\Exercise14\obj\Debug\netcoreapp3.0\Exercise14.AssemblyInfo.cs
+C:\Project1\Exercise14\Exercise14\obj\Debug\netcoreapp3.0\Exercise14.dll
+C:\Project1\Exercise14\Exercise14\obj\Debug\netcoreapp3.0\Exercise14.pdb
